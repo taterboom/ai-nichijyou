@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Local task notes
+tasks/
+
+node_modules/
+dist/

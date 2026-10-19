@@ -1,0 +1,16 @@
+{
+  "name": "ai-nichijyou",
+  "version": "1.0.0",
+  "description": "ai-nichijyou — everyday AI agent skills (Claude Code and others), installable with `npx skills add taterboom/ai-nichijyou`.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taterboom/ai-nichijyou.git"
+  },
+  "keywords": ["claude", "skill", "agent-skills", "deepen", "state-machine"],
+  "author": "taterboom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taterboom/ai-nichijyou/issues"
+  },
+  "homepage": "https://github.com/taterboom/ai-nichijyou#readme"
+}
