@@ -8,6 +8,7 @@
 | --- | --- |
 | [`deepen`](skills/deepen/SKILL.md) | 开工前做深一件事：并行派各学科的独立子代理，找出你想不到、但顶尖从业者会做的事，把任务改写成「更深而不是更大」的版本；做完后把暴露的盲区固化成检查 |
 | [`state-machine`](skills/state-machine/SKILL.md) | 把有重试、轮询、多出口、失败恢复的小脚本写成声明式状态机（纯数据 machine + 动作函数 + 实时 ASCII 状态图）；线性流水线会被劝退。文章与 playground 见 [taterboom/state-machine](https://github.com/taterboom/state-machine) |
+| [`unstick-procrastination`](skills/unstick-procrastination/SKILL.md) | 把一件一直拖着的事从模糊拆到清晰：先诊断拖延类型（模糊 / 决策 / 恐惧 / 厌烦 / 意义 / 疲劳），再给一个 30 分钟内能做的下一步，能一起做就当场一起做 |
 
 ## Install
 

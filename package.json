@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/taterboom/ai-nichijyou.git"
   },
-  "keywords": ["claude", "skill", "agent-skills", "deepen", "state-machine"],
+  "keywords": ["claude", "skill", "agent-skills", "deepen", "state-machine", "procrastination"],
   "author": "taterboom",
   "license": "MIT",
   "bugs": {
